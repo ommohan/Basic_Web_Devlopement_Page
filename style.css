@@ -1,0 +1,24 @@
+body {
+    background-color:#ffffffbe;
+    font-family: Arial, sans-serif;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    
+}
+
+.card{
+    background-color: rgb(166, 222, 222);
+    padding-bottom: 10px;
+    flex-direction: row;
+    display: flex;
+    position: relative;
+    
+}
+
+
